@@ -1,4 +1,4 @@
-<img width="1905" height="935" alt="image" src="https://github.com/user-attachments/assets/1885fce1-f792-47b1-a724-7e4a3a5100a8" /># Bank Customer Churn Prediction
+# Bank Customer Churn Prediction
 
 An ML-powered customer attrition prediction system built for the banking sector using Logistic Regression, Decision Tree, and Random Forest — with an interactive **ChurnSense** dashboard built in Streamlit.
 
