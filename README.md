@@ -1,4 +1,4 @@
-# Bank Customer Churn Prediction
+<img width="1905" height="935" alt="image" src="https://github.com/user-attachments/assets/1885fce1-f792-47b1-a724-7e4a3a5100a8" /># Bank Customer Churn Prediction
 
 An ML-powered customer attrition prediction system built for the banking sector using Logistic Regression, Decision Tree, and Random Forest — with an interactive **ChurnSense** dashboard built in Streamlit.
 
@@ -187,10 +187,11 @@ Available on Kaggle: https://www.kaggle.com/datasets/radheshyamkollipara/bank-cu
 
 ## Live Demo
 
+https://bankrisk-ai.streamlit.app/
 
 ---
 
 ## Screenshots
 
-![img alt]()
-![img alt]()
+![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202026-03-01%20160355.png?raw=true)
+![img alt](https://github.com/nikhil-kumarrr/images/blob/main/Screenshot%202026-03-01%20160411.png?raw=true)
