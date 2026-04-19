@@ -1,6 +1,6 @@
 # Bank Customer Churn Prediction
 
-An ML-powered customer attrition prediction system built for the banking sector using Logistic Regression, Decision Tree, and Random Forest — with an interactive **ChurnSense** dashboard built in Streamlit.
+A ML-powered customer attrition prediction system built for the banking sector using Logistic Regression, Decision Tree, and Random Forest — with an interactive **ChurnSense** dashboard built in Streamlit.
 
 Enter customer profile data and instantly get an AI-powered churn risk prediction with probability scores and a banker action plan.
 
